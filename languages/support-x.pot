@@ -1,0 +1,537 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CRM Perks HelpDesk Integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-29 09:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: support-x"
+
+#: templates/single-ticket.php:16
+#, php-format
+msgid " By %s"
+msgstr ""
+
+#: templates/tickets-table.php:15 templates/tickets-table.php:35
+msgid "#"
+msgstr ""
+
+#: templates/single-ticket.php:79
+#, php-format
+msgid "%s of %s"
+msgstr ""
+
+#: pro/pro.php:119
+msgid "Attach File"
+msgstr ""
+
+#: pro/pro.php:210
+msgid "Attachment Field"
+msgstr ""
+
+#: templates/single-ticket.php:69
+msgid "Attachments"
+msgstr ""
+
+#: templates/single-ticket.php:18
+msgid "Back to Tickets"
+msgstr ""
+
+#: templates/settings.php:552
+msgid "Callback URL"
+msgstr ""
+
+#: templates/settings.php:599
+msgid "Class Name of Tickets table"
+msgstr ""
+
+#: templates/ticket-form.php:80
+msgid "Close ticket"
+msgstr ""
+
+#: includes/admin-pages.php:75
+msgid "Connection to HelpScout is NOT Working"
+msgstr ""
+
+#: includes/admin-pages.php:73
+msgid "Connection to HelpScout is Working"
+msgstr ""
+
+#: templates/settings.php:133
+msgid "Copy API Key and Secret"
+msgstr ""
+
+#: support-x-pro.php:202
+msgid "Count"
+msgstr ""
+
+#: templates/ticket-form.php:20
+msgid "Create New Ticket"
+msgstr ""
+
+#. Author of the plugin
+msgid "CRM Perks"
+msgstr ""
+
+#. Name of the plugin
+msgid "CRM Perks HelpDesk Integration"
+msgstr ""
+
+#: includes/admin-pages.php:145
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/admin-pages.php:214
+msgid "Custom Fields is a Premium Feature"
+msgstr ""
+
+#: templates/ticket-form.php:50
+msgid "Description"
+msgstr ""
+
+#: support-x-pro.php:566
+msgid "Description is Required"
+msgstr ""
+
+#: templates/settings.php:339
+msgid "Desk.com Email"
+msgstr ""
+
+#: templates/settings.php:350 templates/settings.php:356
+msgid "Desk.com Password"
+msgstr ""
+
+#: templates/settings.php:328
+msgid "Desk.com URL"
+msgstr ""
+
+#: templates/settings.php:595
+msgid "Display all tickets related to a wordpress user"
+msgstr ""
+
+#: templates/settings.php:506
+msgid "Display captcha to both logged in users and common visitors"
+msgstr ""
+
+#: templates/settings.php:506
+msgid "Display captcha to only common visitors"
+msgstr ""
+
+#: templates/settings.php:608
+msgid "Display Create a Ticket Form"
+msgstr ""
+
+#: pro/pro.php:158
+msgid "Do not display tags selectbox"
+msgstr ""
+
+#: templates/ticket-form.php:34
+msgid "Email"
+msgstr ""
+
+#: templates/settings.php:195
+msgid "Email for Erorr Notice"
+msgstr ""
+
+#: templates/settings.php:597
+msgid "Email of wordpress user"
+msgstr ""
+
+#: templates/settings.php:500
+msgid "Enable Captcha"
+msgstr ""
+
+#: templates/settings.php:130
+#, php-format
+msgid "Enter %s  in Redirect URI"
+msgstr ""
+
+#: templates/settings.php:129
+msgid "Enter App Name(eg. My App)"
+msgstr ""
+
+#: templates/ticket-form.php:35
+msgid "Enter Email"
+msgstr ""
+
+#: pro/pro.php:191
+msgid "Enter label for tags selectbox"
+msgstr ""
+
+#: templates/ticket-form.php:51
+msgid "Enter Message"
+msgstr ""
+
+#: templates/ticket-form.php:32
+msgid "Enter Name"
+msgstr ""
+
+#: pro/pro.php:31
+msgid "Enter Phone Number"
+msgstr ""
+
+#: templates/ticket-form.php:44
+msgid "Enter Subject"
+msgstr ""
+
+#: pro/custom-fields.php:15
+msgid "Field Label"
+msgstr ""
+
+#: pro/custom-fields.php:16
+msgid "Field Label in Form"
+msgstr ""
+
+#: templates/settings.php:598
+msgid "Font Size of Tickets table"
+msgstr ""
+
+#: templates/settings.php:609
+msgid "for example [crm-perks-form] "
+msgstr ""
+
+#: templates/settings.php:265 templates/settings.php:271
+msgid "FreshDesk API Key"
+msgstr ""
+
+#: templates/settings.php:253
+msgid "FreshDesk URL"
+msgstr ""
+
+#: templates/settings.php:493
+msgid "Google reCaptcha Settings"
+msgstr ""
+
+#: templates/settings.php:546
+msgid "Help Scout Custom APP"
+msgstr ""
+
+#: templates/settings.php:155 templates/settings.php:184
+msgid "HelpScout Access"
+msgstr ""
+
+#: templates/settings.php:121
+msgid "HelpScout APP ID "
+msgstr ""
+
+#: templates/settings.php:142
+msgid "HelpScout APP Secret"
+msgstr ""
+
+#: templates/settings.php:21
+msgid "Hide Key"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.crmperks.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.crmperks.com/plugins/support-plugins/support-x/"
+msgstr ""
+
+#: templates/settings.php:600
+msgid "Id of Tickets table"
+msgstr ""
+
+#: templates/settings.php:596
+msgid "ID of wordpress user , default=logged in user id"
+msgstr ""
+
+#: templates/settings.php:434
+msgid "If list is empty then please refresh it"
+msgstr ""
+
+#: templates/settings.php:128
+msgid "In HelpScout go to Your Profile -> My Apps -> Create New App"
+msgstr ""
+
+#: support-x-pro.php:568
+msgid "Invalid Email"
+msgstr ""
+
+#: support-x-pro.php:204
+msgid "Last update"
+msgstr ""
+
+#: support-x-pro.php:595 support-x-pro.php:608
+msgid "Message Not Sent.Please Try Later"
+msgstr ""
+
+#: support-x-pro.php:589
+msgid "Message sent Successfully"
+msgstr ""
+
+#: templates/ticket-form.php:31
+msgid "Name"
+msgstr ""
+
+#: includes/admin-pages.php:210
+msgid "No Fields Found"
+msgstr ""
+
+#: templates/tickets-table.php:110
+msgid "No Record(s) Found"
+msgstr ""
+
+#: templates/settings.php:58
+msgid "Notification - Remove Connection?"
+msgstr ""
+
+#: templates/settings.php:578
+msgid "On deleting this plugin remove all of its data"
+msgstr ""
+
+#: pro/pro.php:30
+msgid "Phone"
+msgstr ""
+
+#: pro/pro.php:197
+msgid "Phone Field"
+msgstr ""
+
+#: templates/ticket-form.php:73
+msgid "Please Enter Google reCaptcha key and secret in settings"
+msgstr ""
+
+#: templates/settings.php:574
+msgid "Plugin Data"
+msgstr ""
+
+#: templates/settings.php:494
+msgid ""
+"reCAPTCHA is a free Google service to protect your website from spam and "
+"abuse"
+msgstr ""
+
+#: templates/settings.php:523
+msgid "reCaptcha Key"
+msgstr ""
+
+#: templates/settings.php:535
+msgid "reCaptcha Secret"
+msgstr ""
+
+#: pro/custom-fields.php:44
+msgid "Refresh Fields"
+msgstr ""
+
+#: templates/settings.php:428
+msgid "Refresh List"
+msgstr ""
+
+#: templates/settings.php:429
+msgid "Refresh Mailboxes"
+msgstr ""
+
+#: templates/settings.php:430
+msgid "Refreshing..."
+msgstr ""
+
+#: templates/ticket-form.php:18
+#, php-format
+msgid "Reply to ticket #%s"
+msgstr ""
+
+#: templates/settings.php:132
+msgid "Save Application"
+msgstr ""
+
+#: pro/custom-fields.php:43 templates/settings.php:586
+#: templates/settings.php:586
+msgid "Save Changes"
+msgstr ""
+
+#: templates/settings.php:134
+msgid "Save Changes then click Login with HelpScout button"
+msgstr ""
+
+#: templates/settings.php:562
+msgid "Secret Key"
+msgstr ""
+
+#: templates/settings.php:405
+msgid "Select Mailbox"
+msgstr ""
+
+#: templates/settings.php:96
+msgid "Select Ticket System"
+msgstr ""
+
+#: pro/pro.php:180
+msgid "Selectbox label"
+msgstr ""
+
+#: templates/settings.php:601
+msgid ""
+"set it to number-col=\"true\" , if you want to display serial number column "
+"in Tickets table"
+msgstr ""
+
+#: includes/admin-pages.php:143 includes/admin-pages.php:235
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-pages.php:133 includes/admin-pages.php:195
+msgid "Settings Changed Successfully"
+msgstr ""
+
+#: templates/settings.php:592
+msgid "Short Codes"
+msgstr ""
+
+#: pro/pro.php:214
+msgid "Show Attach File Field"
+msgstr ""
+
+#: templates/settings.php:462
+msgid "Show customer tickets tab in WooCommerce account section"
+msgstr ""
+
+#: templates/settings.php:17
+msgid "Show Key"
+msgstr ""
+
+#: pro/pro.php:201
+msgid "Show Phone Number Field"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Show user tickets from HelpScout, ZenDesk, FreshDesk and Teamwork in "
+"wordpress. Users can create new tickets and reply to old tickets from "
+"wordpress."
+msgstr ""
+
+#: support-x-pro.php:200
+msgid "Status"
+msgstr ""
+
+#: support-x-pro.php:200 templates/ticket-form.php:43
+msgid "Subject"
+msgstr ""
+
+#: support-x-pro.php:564
+msgid "Subject is Required"
+msgstr ""
+
+#: templates/ticket-form.php:87
+msgid "Submit"
+msgstr ""
+
+#: templates/ticket-form.php:88
+msgid "Submiting ... "
+msgstr ""
+
+#: templates/settings.php:480
+msgid "Tab Path"
+msgstr ""
+
+#: templates/settings.php:468
+msgid "Tab Title"
+msgstr ""
+
+#: templates/settings.php:473
+msgid "Tab will be added to WooCommece account section"
+msgstr ""
+
+#: pro/pro.php:152
+msgid "Tag Selectbox"
+msgstr ""
+
+#: templates/settings.php:383 templates/settings.php:389
+msgid "TeamWork Desk API Key"
+msgstr ""
+
+#: templates/settings.php:372
+msgid "TeamWork Desk URL"
+msgstr ""
+
+#: templates/settings.php:303
+msgid "Ticket Priority"
+msgstr ""
+
+#: templates/settings.php:282
+msgid "Ticket Status"
+msgstr ""
+
+#: pro/pro.php:160
+msgid "Ticket System Tags"
+msgstr ""
+
+#: includes/admin-pages.php:23
+msgid "Tickets"
+msgstr ""
+
+#: templates/settings.php:241 templates/settings.php:274
+#: templates/settings.php:359 templates/settings.php:392
+msgid "Toggl Key"
+msgstr ""
+
+#: templates/settings.php:603
+msgid ""
+"user_id or email one parameter is required and others are optional. for "
+"example [crm-perks-tickets user_id=\"1\"] "
+msgstr ""
+
+#: templates/settings.php:516
+msgid "When Captcha should be displayed"
+msgstr ""
+
+#: templates/settings.php:547
+msgid ""
+"When you view a ticket in help scout, Help Scout APP brings the customer "
+"data you need directly into the customer sidebar.In Help Scout go to Manage -"
+"> Apps -> Build Custom APP. Enter App name, select \"Dynamic Content\" as "
+"App type. Enter callback url and secret key from below settings. Click Save"
+msgstr ""
+
+#: pro/custom-fields.php:9
+msgid "Which fields do you want to display in \"Create a Ticket\" form"
+msgstr ""
+
+#: pro/pro.php:174
+msgid "Which type of tags do you want to display"
+msgstr ""
+
+#: templates/settings.php:602
+msgid "Width of serial number column for example number-col-width=\"30\""
+msgstr ""
+
+#: templates/settings.php:458
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: pro/pro.php:163
+msgid "WooCommerce products purchased by user"
+msgstr ""
+
+#: support-x-pro.php:522
+msgid "Wrong Captcha! Please try again"
+msgstr ""
+
+#: templates/settings.php:528
+#, php-format
+msgid "You can manage your reCaptcha keys %shere%s"
+msgstr ""
+
+#: templates/settings.php:232 templates/settings.php:238
+msgid "ZenDesk API Key"
+msgstr ""
+
+#: templates/settings.php:220
+msgid "ZenDesk Email"
+msgstr ""
+
+#: templates/settings.php:209
+msgid "ZenDesk URL"
+msgstr ""
